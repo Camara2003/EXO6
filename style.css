@@ -1,0 +1,111 @@
+.color1{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: black;
+}
+.color2{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: blue;
+}
+.color3{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: red;
+}
+.color4{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: orange;
+}
+.color5{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: green;
+}
+.color6{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    background-color: maroon;
+}
+h1::before{
+    content:"SALE";
+    position: absolute;
+    top: -15px;
+    left: -40px;
+    background-color: red;
+    color: white;
+    font-size: 1em;
+    font-style: normal;
+    margin-right: 50px;
+}
+body{
+    border: 5px solid;
+    height: 500px;
+    width: 300px;
+}
+h2{
+    font-weight: bold;
+    position: absolute;
+    top: 140px;
+    left: 350px;
+}
+#id1{
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    ;
+}
+
+body{
+    width: 850px;
+    height: 455px;
+
+}
+.section{
+    position: absolute;
+    left: 600px;
+    top: 150px;
+
+}#id2{
+    position: absolute;
+    left: 350px;
+    top: 200px; 
+    
+}
+#more{
+    position: absolute;
+    left: 350px;
+    top: 290px;
+}
+.color{
+    display: flex;
+    position: absolute;
+    left: 345px;
+    top: 350px;
+}
+h1{
+    position: absolute;
+    background-color: rgb(235, 226, 226);
+    padding: 20px;
+    margin-top: -0px;
+    width: 810px;
+}
+img{
+   height: 400px;
+   width: 300px; 
+}
+footer{
+    text-align: center;
+    
+    background-color: black;
+    padding: 4.79px;
+    color: white;
+    margin-top: -5px;
+}
